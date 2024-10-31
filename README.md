@@ -5,8 +5,6 @@
 
 
 
-📫 How to reach me **lala.ibzade@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
