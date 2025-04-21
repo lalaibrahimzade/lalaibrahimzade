@@ -37,19 +37,24 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalaibrahimzade&show_icons=true&locale=en&layout=compact" alt="lalaibrahimzade" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalaibrahimzade&show_icons=true&locale=en" alt="lalaibrahimzade" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaibrahimzade&" alt="lalaibrahimzade" /></p>  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaibrahimzade&" alt="lalaibrahimzade" /></p>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github.com/user-attachments/assets/a63136f8-9fb4-46ad-b252-f515ed936ce9" alt="Cute Octocat" width="120"/>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">📫 Contact Me:</h3>
-<p>
-  💼 <a href="https://www.linkedin.com/in/lalaibrahimzade/" target="_blank">LinkedIn Profile</a>
-</p>
 
-<br>
 
-<div align="center">
- ![Image](https://github.com/user-attachments/assets/a63136f8-9fb4-46ad-b252-f515ed936ce9)
-</div>
+
+
+
+
+
+
+
 
