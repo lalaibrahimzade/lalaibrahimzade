@@ -40,13 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalaibrahimzade&show_icons=true&locale=en" alt="lalaibrahimzade" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalaibrahimzade&" alt="lalaibrahimzade" /></p>  
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <img src="https://github.com/user-attachments/assets/a63136f8-9fb4-46ad-b252-f515ed936ce9" alt="Cute Octocat" width="120"/>
-    </td>
-  </tr>
-</table>
+
 
 
 
