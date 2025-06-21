@@ -1,6 +1,6 @@
 <img  src="https://www.sean-lloyd.com/assets/static/20210303-dino-game-2.8cbd2dc.91351d5ac9153c4fc6ede3603c6fd687.gif" width="100%"  alt="">
 
-<h1 align="center">Hi 👋, I'm lalaibrahimzade</h1>
+<h1 align="center">Hi 👋, I'm lala</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <h3 align="left">🛠 Languages and Tools:</h3>
